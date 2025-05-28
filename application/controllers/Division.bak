@@ -1,0 +1,142 @@
+<?php  
+    defined('BASEPATH') OR exit('No direct script access allowed');  
+      
+    class Division extends MY_Controller {  
+          
+        public function index() {  
+            
+        }  
+		
+		public function query() {
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$query = $this->db->query("select a.*,b.name||' ('||b.code||')' as DEPT_NAME 
+				from dept a,dept b where a.type = 2 and b.type = 1 and a.parent = b.id order by a.id");
+			$data = array(); $i = 0;
+			foreach ($query->result_array() as $rec) {
+				$rec['CMD'] = '<i class="edit icon" onclick="editDiv('."'".$rec['ID']."'".')"></i>';
+				$data[] = $rec; $i++;
+			}
+			
+			$output = array(
+				"page" => 1,
+                "total" => $i,
+				"records" => $i,
+				"rows" => $data
+			);
+			echo json_encode($output);
+		}
+		
+		public function queryById($id) {
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$query = $this->db->query('select * from dept where id = '.$id);
+			$rec = $query->row_array();
+			$data = array();
+			if (isset($rec)) {
+				$data['status'] = TRUE;
+				$data['dept'] = $rec;
+			} else {
+				$data['status'] = FALSE;
+				$data['error'] = "Data tidak ditemukan";
+			}
+			echo json_encode($data);
+		}
+		
+		public function validate() {
+			$data = array(); $data['status'] = FALSE;
+			if ($_POST['CODE'] == '') {
+				$data['error'] = 'Kode harus diisi';
+			} else if ($_POST['NAME'] == '') {
+				$data['error'] = 'Nama harus diisi';
+			} else {
+				$data['status'] = TRUE;
+			}
+			
+			if($data['status'] === FALSE) {
+				echo json_encode($data);
+				exit();
+			}
+		}
+		
+		public function create() {
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$this->validate();
+			$data = array();
+			foreach($_POST as $key => $value) {
+				if (strpos($key, '_AT') === false && $key !== 'ID') {
+					$data[$key] = $value;
+				}
+			}
+			
+			$this->db->set($data);
+			$this->db->set('TYPE', '2');			
+			$this->db->set('ID', 'seqdept.nextval', false);
+			$this->db->set('MODIFIED_AT', 'SYSDATE', false);
+			$this->db->set('MODIFIED_BY', $_SESSION['profile']['user_id']);
+			$this->db->insert('DEPT');
+
+			echo json_encode(array('status' => TRUE));
+		}
+
+        public function update() {  
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$this->validate();
+			$data = array();
+			foreach($_POST as $key => $value) {
+				if (strpos($key, 'MODIFIED') === false && $key !== 'ID') {
+					$data[$key] = $value;
+				}
+			}
+			
+			$this->db->set($data);
+			$this->db->set('MODIFIED_AT', 'SYSDATE', false);
+			$this->db->set('MODIFIED_BY', $_SESSION['profile']['user_id']);
+			$this->db->where('ID', $_POST['ID']);
+			$this->db->update('DEPT');
+
+			echo json_encode(array('status' => TRUE));
+        }
+      
+        public function delete() {  
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$this->db->where('ID', $_POST['ID']);
+			$this->db->delete('DEPT');
+
+			echo json_encode(array('status' => TRUE));
+        }
+    }  
+?>  

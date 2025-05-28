@@ -1,0 +1,71 @@
+<?php  
+    defined('BASEPATH') OR exit('No direct script access allowed');  
+      
+    class Empstatus extends MY_Controller {  
+          
+        public function index() {  
+
+		}
+		
+		public function query() {
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$sql = "select * from empstatus order by id";
+			
+			$query = $this->db->query($sql);
+			$data = array(); $i = 0;
+			foreach ($query->result_array() as $rec) {
+				$rec['CMD'] = '<i class="edit icon" onclick="editStatus('."'".$rec['ID']."'".')"></i>';
+				$data[] = $rec; $i++;
+			}
+			
+			$output = array(
+				"page" => 1,
+                "total" => $i,
+				"records" => $i,
+				"rows" => $data
+			);
+			echo json_encode($output);
+		}
+
+		public function get($id) {
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+			
+			$query = $this->db->query("select * from empstatus where id = ?", $id);
+			if ($query->num_rows() > 0) {
+				$data['status'] = TRUE;
+				$data['empstatus'] = $query->row_array();
+			} else {
+				$data['status'] = FALSE;
+			}
+			echo json_encode($data);
+		}
+		
+        public function update() {  
+			if (!isGranted()) {
+				echo json_encode(array(
+					'status' => FALSE,
+					'error' => "Maaf, Anda tidak diperkenankan untuk operasi ini"
+				));
+				return;
+			}
+
+			$this->updateRecord('EMPSTATUS', $_POST, array('ID'));
+
+			echo json_encode(array('status' => TRUE, 'id' => $_POST['ID']));
+        }
+      
+    }  
+?>

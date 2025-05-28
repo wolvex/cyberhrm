@@ -1,0 +1,44 @@
+<?php  
+    defined('BASEPATH') OR exit('No direct script access allowed');  
+      
+    class Permission extends MY_Controller {  
+          
+        public function index() {
+			//if (!isset($this->session->userdata['profile'])) {				
+            //	header("Location: login");
+			//}
+        }  
+
+        public function get($module) {
+            //if (!isset($_SESSION['profile'])) {
+            
+            //    $data['status'] = false;
+            //    $data['error'] = 'Invalid session, please login';
+            
+            //} else {
+                $profile = array();                    
+                $profile['user_id'] = "lutfi";
+                $profile['user_fullname'] = "Lutfi";
+                
+                $this->session->set_userdata('profile', $profile);
+            
+                $user_id = $_SESSION['profile']['user_id'];
+                $sql = "select * from users a,permissions b
+                    WHERE a.id = b.user_id and a.status = 'A' and a.id = ? and b.module = ?";
+                $query = $this->db->query($sql, array($user_id, $module));
+                $rec = $query->row_array();
+
+                if (isset($rec)) {
+                    $data['status'] = true;
+                    $data['action'] = $rec['action'];
+                } else {
+                    $data['status'] = false;
+                    $data['error'] = 'Cannot find permission for user';
+                }
+            }
+
+            echo json_encode($data);
+        }
+		
+    }  
+?>  

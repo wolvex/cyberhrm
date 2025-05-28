@@ -1,0 +1,1634 @@
+INFO - 2018-12-14 00:18:01 --> Config Class Initialized
+INFO - 2018-12-14 00:18:01 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:18:01 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:18:01 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:18:01 --> URI Class Initialized
+INFO - 2018-12-14 00:18:01 --> Router Class Initialized
+INFO - 2018-12-14 00:18:01 --> Output Class Initialized
+INFO - 2018-12-14 00:18:01 --> Security Class Initialized
+DEBUG - 2018-12-14 00:18:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:18:01 --> Input Class Initialized
+INFO - 2018-12-14 00:18:01 --> Language Class Initialized
+INFO - 2018-12-14 00:18:01 --> Loader Class Initialized
+INFO - 2018-12-14 00:18:01 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:18:01 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:18:01 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:18:01 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:18:01 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:18:01 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:18:01 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:18:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:18:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:18:01 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:18:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:18:01 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:18:01 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\employees.php
+INFO - 2018-12-14 00:18:01 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 00:18:01 --> Final output sent to browser
+DEBUG - 2018-12-14 00:18:01 --> Total execution time: 0.2888
+INFO - 2018-12-14 00:18:03 --> Config Class Initialized
+INFO - 2018-12-14 00:18:03 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:18:03 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:18:03 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:18:03 --> URI Class Initialized
+INFO - 2018-12-14 00:18:03 --> Router Class Initialized
+INFO - 2018-12-14 00:18:03 --> Output Class Initialized
+INFO - 2018-12-14 00:18:03 --> Security Class Initialized
+DEBUG - 2018-12-14 00:18:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:18:03 --> Input Class Initialized
+INFO - 2018-12-14 00:18:03 --> Language Class Initialized
+INFO - 2018-12-14 00:18:03 --> Loader Class Initialized
+INFO - 2018-12-14 00:18:03 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:18:03 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:18:03 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:18:03 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:18:03 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:18:03 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:18:03 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:18:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:18:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:18:03 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:18:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:18:03 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:18:03 --> Final output sent to browser
+DEBUG - 2018-12-14 00:18:03 --> Total execution time: 0.2617
+INFO - 2018-12-14 00:18:12 --> Config Class Initialized
+INFO - 2018-12-14 00:18:12 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:18:12 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:18:12 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:18:12 --> URI Class Initialized
+INFO - 2018-12-14 00:18:12 --> Router Class Initialized
+INFO - 2018-12-14 00:18:12 --> Output Class Initialized
+INFO - 2018-12-14 00:18:12 --> Security Class Initialized
+DEBUG - 2018-12-14 00:18:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:18:12 --> Input Class Initialized
+INFO - 2018-12-14 00:18:12 --> Language Class Initialized
+INFO - 2018-12-14 00:18:12 --> Loader Class Initialized
+INFO - 2018-12-14 00:18:12 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:18:12 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:18:12 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:18:12 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:18:12 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:18:12 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:18:12 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:18:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:18:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:18:12 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:18:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:18:12 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:18:12 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\report.php
+INFO - 2018-12-14 00:18:12 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 00:18:12 --> Final output sent to browser
+DEBUG - 2018-12-14 00:18:12 --> Total execution time: 0.1308
+INFO - 2018-12-14 00:18:13 --> Config Class Initialized
+INFO - 2018-12-14 00:18:13 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:18:13 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:18:13 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:18:13 --> URI Class Initialized
+INFO - 2018-12-14 00:18:13 --> Router Class Initialized
+INFO - 2018-12-14 00:18:13 --> Output Class Initialized
+INFO - 2018-12-14 00:18:13 --> Security Class Initialized
+DEBUG - 2018-12-14 00:18:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:18:13 --> Input Class Initialized
+INFO - 2018-12-14 00:18:13 --> Language Class Initialized
+INFO - 2018-12-14 00:18:13 --> Loader Class Initialized
+INFO - 2018-12-14 00:18:13 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:18:13 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:18:13 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:18:13 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:18:13 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:18:13 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:18:13 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:18:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:18:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:18:13 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:18:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:18:13 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:18:21 --> Config Class Initialized
+INFO - 2018-12-14 00:18:21 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:18:21 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:18:21 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:18:21 --> URI Class Initialized
+INFO - 2018-12-14 00:18:21 --> Router Class Initialized
+INFO - 2018-12-14 00:18:21 --> Output Class Initialized
+INFO - 2018-12-14 00:18:21 --> Security Class Initialized
+DEBUG - 2018-12-14 00:18:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:18:21 --> Input Class Initialized
+INFO - 2018-12-14 00:18:21 --> Language Class Initialized
+INFO - 2018-12-14 00:18:21 --> Loader Class Initialized
+INFO - 2018-12-14 00:18:21 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:18:21 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:18:21 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:18:21 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:18:21 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:18:21 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:18:22 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:18:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:18:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:18:22 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:18:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:18:22 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:18:22 --> Found date1 = November 2018
+INFO - 2018-12-14 00:18:22 --> Found period = 2018-11
+INFO - 2018-12-14 00:18:22 --> Found rptTitle = Ringkasan BPJS Ketenagakerjaan
+INFO - 2018-12-14 00:18:22 --> Found rptSubtitle = November 2018
+INFO - 2018-12-14 00:18:22 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\reportviewer.php
+INFO - 2018-12-14 00:18:22 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/report.php
+INFO - 2018-12-14 00:18:22 --> Final output sent to browser
+DEBUG - 2018-12-14 00:18:22 --> Total execution time: 0.4452
+INFO - 2018-12-14 00:26:33 --> Config Class Initialized
+INFO - 2018-12-14 00:26:33 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:26:33 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:26:33 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:26:33 --> URI Class Initialized
+INFO - 2018-12-14 00:26:33 --> Router Class Initialized
+INFO - 2018-12-14 00:26:33 --> Output Class Initialized
+INFO - 2018-12-14 00:26:33 --> Security Class Initialized
+DEBUG - 2018-12-14 00:26:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:26:33 --> Input Class Initialized
+INFO - 2018-12-14 00:26:33 --> Language Class Initialized
+INFO - 2018-12-14 00:26:33 --> Loader Class Initialized
+INFO - 2018-12-14 00:26:33 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:26:33 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:26:33 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:26:33 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:26:33 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:26:33 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:26:33 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:26:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:26:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:26:33 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:26:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:26:33 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:26:33 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 00:26:33 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 00:26:33 --> Final output sent to browser
+DEBUG - 2018-12-14 00:26:33 --> Total execution time: 0.3264
+INFO - 2018-12-14 00:26:35 --> Config Class Initialized
+INFO - 2018-12-14 00:26:35 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:26:35 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:26:35 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:26:35 --> URI Class Initialized
+INFO - 2018-12-14 00:26:35 --> Router Class Initialized
+INFO - 2018-12-14 00:26:35 --> Output Class Initialized
+INFO - 2018-12-14 00:26:35 --> Security Class Initialized
+DEBUG - 2018-12-14 00:26:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:26:35 --> Input Class Initialized
+INFO - 2018-12-14 00:26:35 --> Language Class Initialized
+INFO - 2018-12-14 00:26:35 --> Loader Class Initialized
+INFO - 2018-12-14 00:26:35 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:26:35 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:26:35 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:26:35 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:26:35 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:26:35 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:26:35 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:26:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:26:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:26:35 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:26:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:26:35 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:26:35 --> Final output sent to browser
+DEBUG - 2018-12-14 00:26:35 --> Total execution time: 0.2865
+INFO - 2018-12-14 00:26:38 --> Config Class Initialized
+INFO - 2018-12-14 00:26:38 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:26:38 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:26:38 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:26:38 --> URI Class Initialized
+INFO - 2018-12-14 00:26:38 --> Router Class Initialized
+INFO - 2018-12-14 00:26:38 --> Output Class Initialized
+INFO - 2018-12-14 00:26:38 --> Security Class Initialized
+DEBUG - 2018-12-14 00:26:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:26:38 --> Input Class Initialized
+INFO - 2018-12-14 00:26:38 --> Language Class Initialized
+INFO - 2018-12-14 00:26:38 --> Loader Class Initialized
+INFO - 2018-12-14 00:26:38 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:26:38 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:26:38 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:26:38 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:26:38 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:26:38 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:26:38 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:26:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:26:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:26:38 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:26:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:26:38 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:26:38 --> Final output sent to browser
+DEBUG - 2018-12-14 00:26:38 --> Total execution time: 0.4191
+INFO - 2018-12-14 00:26:59 --> Config Class Initialized
+INFO - 2018-12-14 00:26:59 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:26:59 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:26:59 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:26:59 --> URI Class Initialized
+INFO - 2018-12-14 00:26:59 --> Router Class Initialized
+INFO - 2018-12-14 00:26:59 --> Output Class Initialized
+INFO - 2018-12-14 00:26:59 --> Security Class Initialized
+DEBUG - 2018-12-14 00:26:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:26:59 --> Input Class Initialized
+INFO - 2018-12-14 00:26:59 --> Language Class Initialized
+INFO - 2018-12-14 00:26:59 --> Loader Class Initialized
+INFO - 2018-12-14 00:26:59 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:26:59 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:26:59 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:26:59 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:26:59 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:26:59 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:26:59 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:26:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:26:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:26:59 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:26:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:26:59 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:00 --> Config Class Initialized
+INFO - 2018-12-14 00:27:00 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:00 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:00 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:00 --> URI Class Initialized
+INFO - 2018-12-14 00:27:00 --> Router Class Initialized
+INFO - 2018-12-14 00:27:00 --> Output Class Initialized
+INFO - 2018-12-14 00:27:00 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:00 --> Input Class Initialized
+INFO - 2018-12-14 00:27:00 --> Language Class Initialized
+INFO - 2018-12-14 00:27:00 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:00 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:00 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:00 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:00 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:00 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:00 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:00 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:00 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:00 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:00 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:00 --> Total execution time: 0.1486
+INFO - 2018-12-14 00:27:03 --> Config Class Initialized
+INFO - 2018-12-14 00:27:03 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:03 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:03 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:03 --> URI Class Initialized
+INFO - 2018-12-14 00:27:03 --> Router Class Initialized
+INFO - 2018-12-14 00:27:03 --> Output Class Initialized
+INFO - 2018-12-14 00:27:03 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:03 --> Input Class Initialized
+INFO - 2018-12-14 00:27:03 --> Language Class Initialized
+INFO - 2018-12-14 00:27:03 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:03 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:03 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:03 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:03 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:03 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:03 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:03 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:03 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:03 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:03 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\payday.php
+INFO - 2018-12-14 00:27:03 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 00:27:03 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:03 --> Total execution time: 0.1485
+INFO - 2018-12-14 00:27:04 --> Config Class Initialized
+INFO - 2018-12-14 00:27:04 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:04 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:04 --> URI Class Initialized
+INFO - 2018-12-14 00:27:04 --> Router Class Initialized
+INFO - 2018-12-14 00:27:04 --> Output Class Initialized
+INFO - 2018-12-14 00:27:04 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:04 --> Input Class Initialized
+INFO - 2018-12-14 00:27:04 --> Language Class Initialized
+INFO - 2018-12-14 00:27:04 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:04 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:04 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:04 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:04 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:04 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:04 --> Total execution time: 0.1321
+INFO - 2018-12-14 00:27:04 --> Config Class Initialized
+INFO - 2018-12-14 00:27:04 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:04 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:04 --> URI Class Initialized
+INFO - 2018-12-14 00:27:04 --> Router Class Initialized
+INFO - 2018-12-14 00:27:04 --> Output Class Initialized
+INFO - 2018-12-14 00:27:04 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:04 --> Input Class Initialized
+INFO - 2018-12-14 00:27:04 --> Language Class Initialized
+INFO - 2018-12-14 00:27:04 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:04 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:04 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:04 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:04 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:04 --> Config Class Initialized
+INFO - 2018-12-14 00:27:04 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:04 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:04 --> URI Class Initialized
+INFO - 2018-12-14 00:27:04 --> Router Class Initialized
+INFO - 2018-12-14 00:27:04 --> Output Class Initialized
+INFO - 2018-12-14 00:27:04 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:04 --> Input Class Initialized
+INFO - 2018-12-14 00:27:04 --> Language Class Initialized
+INFO - 2018-12-14 00:27:04 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:04 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:04 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:04 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:04 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:04 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:04 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:04 --> Total execution time: 0.1054
+INFO - 2018-12-14 00:27:09 --> Config Class Initialized
+INFO - 2018-12-14 00:27:09 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:09 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:09 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:09 --> URI Class Initialized
+INFO - 2018-12-14 00:27:09 --> Router Class Initialized
+INFO - 2018-12-14 00:27:09 --> Output Class Initialized
+INFO - 2018-12-14 00:27:09 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:09 --> Input Class Initialized
+INFO - 2018-12-14 00:27:09 --> Language Class Initialized
+INFO - 2018-12-14 00:27:09 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:09 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:09 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:09 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:09 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:09 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:09 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:09 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:09 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:09 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:09 --> Processing payroll id 41
+INFO - 2018-12-14 00:27:09 --> Processing payslip for employee id 351
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 352
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 353
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 354
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 382
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 386
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 404
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 408
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 419
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 425
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 430
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 431
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 432
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 433
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 441
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 442
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 357
+INFO - 2018-12-14 00:27:10 --> Processing payslip for employee id 361
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 367
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 370
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 371
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 394
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 397
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 399
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 424
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 355
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 358
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 360
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 363
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 365
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 366
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 372
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 373
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 374
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 375
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 376
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 377
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 378
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 379
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 380
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 381
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 385
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 387
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 388
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 391
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 393
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 396
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 398
+INFO - 2018-12-14 00:27:11 --> Processing payslip for employee id 401
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 402
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 403
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 406
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 407
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 409
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 411
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 413
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 414
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 415
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 416
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 417
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 420
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 421
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 422
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 423
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 426
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 427
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 434
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 435
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 436
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 437
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 438
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 440
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 443
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 362
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 364
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 368
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 384
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 392
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 405
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 418
+INFO - 2018-12-14 00:27:12 --> Processing payslip for employee id 428
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 429
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 356
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 359
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 390
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 395
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 400
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 410
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 383
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 389
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 439
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 369
+INFO - 2018-12-14 00:27:13 --> Processing payslip for employee id 412
+INFO - 2018-12-14 00:27:14 --> Config Class Initialized
+INFO - 2018-12-14 00:27:14 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:14 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:14 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:14 --> URI Class Initialized
+INFO - 2018-12-14 00:27:14 --> Router Class Initialized
+INFO - 2018-12-14 00:27:14 --> Output Class Initialized
+INFO - 2018-12-14 00:27:14 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:14 --> Input Class Initialized
+INFO - 2018-12-14 00:27:14 --> Language Class Initialized
+INFO - 2018-12-14 00:27:14 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:14 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:14 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:14 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:14 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:14 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:14 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:14 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:14 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:14 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:14 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\payday.php
+INFO - 2018-12-14 00:27:14 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 00:27:14 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:14 --> Total execution time: 0.1305
+INFO - 2018-12-14 00:27:15 --> Config Class Initialized
+INFO - 2018-12-14 00:27:15 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:15 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:15 --> URI Class Initialized
+INFO - 2018-12-14 00:27:15 --> Router Class Initialized
+INFO - 2018-12-14 00:27:15 --> Output Class Initialized
+INFO - 2018-12-14 00:27:15 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:15 --> Input Class Initialized
+INFO - 2018-12-14 00:27:15 --> Language Class Initialized
+INFO - 2018-12-14 00:27:15 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:15 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:15 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:15 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:15 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:15 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:15 --> Total execution time: 0.1540
+INFO - 2018-12-14 00:27:15 --> Config Class Initialized
+INFO - 2018-12-14 00:27:15 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:15 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:15 --> URI Class Initialized
+INFO - 2018-12-14 00:27:15 --> Router Class Initialized
+INFO - 2018-12-14 00:27:15 --> Output Class Initialized
+INFO - 2018-12-14 00:27:15 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:15 --> Input Class Initialized
+INFO - 2018-12-14 00:27:15 --> Language Class Initialized
+INFO - 2018-12-14 00:27:15 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:15 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:15 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:15 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:15 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:15 --> Config Class Initialized
+INFO - 2018-12-14 00:27:15 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:15 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:15 --> URI Class Initialized
+INFO - 2018-12-14 00:27:15 --> Router Class Initialized
+INFO - 2018-12-14 00:27:15 --> Output Class Initialized
+INFO - 2018-12-14 00:27:15 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:15 --> Input Class Initialized
+INFO - 2018-12-14 00:27:15 --> Language Class Initialized
+INFO - 2018-12-14 00:27:15 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:15 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:15 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:15 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:15 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:15 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:15 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:15 --> Total execution time: 0.0956
+INFO - 2018-12-14 00:27:24 --> Config Class Initialized
+INFO - 2018-12-14 00:27:24 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:27:24 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:27:24 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:27:24 --> URI Class Initialized
+INFO - 2018-12-14 00:27:24 --> Router Class Initialized
+INFO - 2018-12-14 00:27:24 --> Output Class Initialized
+INFO - 2018-12-14 00:27:24 --> Security Class Initialized
+DEBUG - 2018-12-14 00:27:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:27:24 --> Input Class Initialized
+INFO - 2018-12-14 00:27:24 --> Language Class Initialized
+INFO - 2018-12-14 00:27:24 --> Loader Class Initialized
+INFO - 2018-12-14 00:27:24 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:27:24 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:27:24 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:27:24 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:27:24 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:27:24 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:27:24 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:27:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:27:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:27:24 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:27:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:27:24 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:27:24 --> Found rptTitle = Daftar Honor Pegawai
+INFO - 2018-12-14 00:27:24 --> Found rptSubtitle = 01-Nov-2018 s/d 15-Dec-2018
+INFO - 2018-12-14 00:27:24 --> Found payrollId = 41
+INFO - 2018-12-14 00:27:24 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\reportviewer.php
+INFO - 2018-12-14 00:27:24 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/report.php
+INFO - 2018-12-14 00:27:24 --> Final output sent to browser
+DEBUG - 2018-12-14 00:27:24 --> Total execution time: 0.1027
+INFO - 2018-12-14 00:29:21 --> Config Class Initialized
+INFO - 2018-12-14 00:29:21 --> Hooks Class Initialized
+DEBUG - 2018-12-14 00:29:21 --> UTF-8 Support Enabled
+INFO - 2018-12-14 00:29:21 --> Utf8 Class Initialized
+INFO - 2018-12-14 00:29:21 --> URI Class Initialized
+INFO - 2018-12-14 00:29:21 --> Router Class Initialized
+INFO - 2018-12-14 00:29:21 --> Output Class Initialized
+INFO - 2018-12-14 00:29:21 --> Security Class Initialized
+DEBUG - 2018-12-14 00:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 00:29:21 --> Input Class Initialized
+INFO - 2018-12-14 00:29:21 --> Language Class Initialized
+INFO - 2018-12-14 00:29:21 --> Loader Class Initialized
+INFO - 2018-12-14 00:29:21 --> Helper loaded: url_helper
+INFO - 2018-12-14 00:29:21 --> Helper loaded: form_helper
+INFO - 2018-12-14 00:29:21 --> Helper loaded: html_helper
+INFO - 2018-12-14 00:29:21 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 00:29:21 --> Helper loaded: layout_helper
+INFO - 2018-12-14 00:29:21 --> Helper loaded: func_helper
+INFO - 2018-12-14 00:29:21 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 00:29:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 00:29:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 00:29:21 --> Controller Class Initialized
+DEBUG - 2018-12-14 00:29:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 00:29:21 --> Form Validation Class Initialized
+INFO - 2018-12-14 00:29:21 --> Found rptTitle = Daftar Honor Pegawai
+INFO - 2018-12-14 00:29:21 --> Found rptSubtitle = 01-Nov-2018 s/d 15-Dec-2018
+INFO - 2018-12-14 00:29:21 --> Found payrollId = 41
+INFO - 2018-12-14 00:29:21 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\reportviewer.php
+INFO - 2018-12-14 00:29:21 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/report.php
+INFO - 2018-12-14 00:29:21 --> Final output sent to browser
+DEBUG - 2018-12-14 00:29:21 --> Total execution time: 0.1875
+INFO - 2018-12-14 07:23:42 --> Config Class Initialized
+INFO - 2018-12-14 07:23:42 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:23:42 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:23:42 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:23:42 --> URI Class Initialized
+INFO - 2018-12-14 07:23:42 --> Router Class Initialized
+INFO - 2018-12-14 07:23:42 --> Output Class Initialized
+INFO - 2018-12-14 07:23:42 --> Security Class Initialized
+DEBUG - 2018-12-14 07:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:23:42 --> Input Class Initialized
+INFO - 2018-12-14 07:23:42 --> Language Class Initialized
+INFO - 2018-12-14 07:23:42 --> Loader Class Initialized
+INFO - 2018-12-14 07:23:42 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:23:42 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:23:42 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:23:42 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:23:42 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:23:42 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:23:42 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:23:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:23:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:23:47 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:23:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:23:47 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:23:47 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\employees.php
+INFO - 2018-12-14 07:23:47 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 07:23:47 --> Final output sent to browser
+DEBUG - 2018-12-14 07:23:47 --> Total execution time: 5.0634
+INFO - 2018-12-14 07:23:48 --> Config Class Initialized
+INFO - 2018-12-14 07:23:48 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:23:48 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:23:48 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:23:48 --> URI Class Initialized
+INFO - 2018-12-14 07:23:48 --> Router Class Initialized
+INFO - 2018-12-14 07:23:48 --> Output Class Initialized
+INFO - 2018-12-14 07:23:48 --> Security Class Initialized
+DEBUG - 2018-12-14 07:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:23:49 --> Input Class Initialized
+INFO - 2018-12-14 07:23:49 --> Language Class Initialized
+INFO - 2018-12-14 07:23:49 --> Loader Class Initialized
+INFO - 2018-12-14 07:23:49 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:23:49 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:23:49 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:23:49 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:23:49 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:23:49 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:23:49 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:23:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:23:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:23:49 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:23:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:23:49 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:23:49 --> Final output sent to browser
+DEBUG - 2018-12-14 07:23:49 --> Total execution time: 0.5444
+INFO - 2018-12-14 07:24:23 --> Config Class Initialized
+INFO - 2018-12-14 07:24:23 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:23 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:23 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:23 --> URI Class Initialized
+INFO - 2018-12-14 07:24:23 --> Router Class Initialized
+INFO - 2018-12-14 07:24:23 --> Output Class Initialized
+INFO - 2018-12-14 07:24:23 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:23 --> Input Class Initialized
+INFO - 2018-12-14 07:24:23 --> Language Class Initialized
+INFO - 2018-12-14 07:24:23 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:23 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:23 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:23 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:23 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:23 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:23 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:23 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:23 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:23 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:23 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 07:24:23 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 07:24:23 --> Final output sent to browser
+DEBUG - 2018-12-14 07:24:23 --> Total execution time: 0.1994
+INFO - 2018-12-14 07:24:24 --> Config Class Initialized
+INFO - 2018-12-14 07:24:24 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:24 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:24 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:24 --> URI Class Initialized
+INFO - 2018-12-14 07:24:24 --> Router Class Initialized
+INFO - 2018-12-14 07:24:24 --> Output Class Initialized
+INFO - 2018-12-14 07:24:24 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:24 --> Input Class Initialized
+INFO - 2018-12-14 07:24:24 --> Language Class Initialized
+INFO - 2018-12-14 07:24:24 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:24 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:24 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:24 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:24 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:24 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:24 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:24 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:24 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:24 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:24 --> Final output sent to browser
+DEBUG - 2018-12-14 07:24:24 --> Total execution time: 0.2506
+INFO - 2018-12-14 07:24:27 --> Config Class Initialized
+INFO - 2018-12-14 07:24:27 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:27 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:27 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:27 --> URI Class Initialized
+INFO - 2018-12-14 07:24:27 --> Router Class Initialized
+INFO - 2018-12-14 07:24:27 --> Output Class Initialized
+INFO - 2018-12-14 07:24:27 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:27 --> Input Class Initialized
+INFO - 2018-12-14 07:24:27 --> Language Class Initialized
+INFO - 2018-12-14 07:24:27 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:27 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:27 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:27 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:27 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:27 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:27 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:27 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:27 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:27 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:27 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\payday.php
+INFO - 2018-12-14 07:24:27 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 07:24:27 --> Final output sent to browser
+DEBUG - 2018-12-14 07:24:27 --> Total execution time: 0.2600
+INFO - 2018-12-14 07:24:28 --> Config Class Initialized
+INFO - 2018-12-14 07:24:28 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:28 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:28 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:28 --> URI Class Initialized
+INFO - 2018-12-14 07:24:28 --> Router Class Initialized
+INFO - 2018-12-14 07:24:28 --> Output Class Initialized
+INFO - 2018-12-14 07:24:28 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:28 --> Input Class Initialized
+INFO - 2018-12-14 07:24:28 --> Language Class Initialized
+INFO - 2018-12-14 07:24:28 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:28 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:28 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:28 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:28 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:28 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:28 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:28 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:28 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:28 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:28 --> Final output sent to browser
+DEBUG - 2018-12-14 07:24:28 --> Total execution time: 0.1894
+INFO - 2018-12-14 07:24:28 --> Config Class Initialized
+INFO - 2018-12-14 07:24:28 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:29 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:29 --> URI Class Initialized
+INFO - 2018-12-14 07:24:29 --> Router Class Initialized
+INFO - 2018-12-14 07:24:29 --> Output Class Initialized
+INFO - 2018-12-14 07:24:29 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:29 --> Input Class Initialized
+INFO - 2018-12-14 07:24:29 --> Language Class Initialized
+INFO - 2018-12-14 07:24:29 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:29 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:29 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:29 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:29 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:29 --> Config Class Initialized
+INFO - 2018-12-14 07:24:29 --> Hooks Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> UTF-8 Support Enabled
+INFO - 2018-12-14 07:24:29 --> Utf8 Class Initialized
+INFO - 2018-12-14 07:24:29 --> URI Class Initialized
+INFO - 2018-12-14 07:24:29 --> Router Class Initialized
+INFO - 2018-12-14 07:24:29 --> Output Class Initialized
+INFO - 2018-12-14 07:24:29 --> Security Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 07:24:29 --> Input Class Initialized
+INFO - 2018-12-14 07:24:29 --> Language Class Initialized
+INFO - 2018-12-14 07:24:29 --> Loader Class Initialized
+INFO - 2018-12-14 07:24:29 --> Helper loaded: url_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: form_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: html_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: layout_helper
+INFO - 2018-12-14 07:24:29 --> Helper loaded: func_helper
+INFO - 2018-12-14 07:24:29 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 07:24:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 07:24:29 --> Controller Class Initialized
+DEBUG - 2018-12-14 07:24:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 07:24:29 --> Form Validation Class Initialized
+INFO - 2018-12-14 07:24:29 --> Final output sent to browser
+DEBUG - 2018-12-14 07:24:29 --> Total execution time: 0.2107
+INFO - 2018-12-14 09:45:09 --> Config Class Initialized
+INFO - 2018-12-14 09:45:09 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:45:09 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:45:09 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:45:10 --> URI Class Initialized
+INFO - 2018-12-14 09:45:10 --> Router Class Initialized
+INFO - 2018-12-14 09:45:10 --> Output Class Initialized
+INFO - 2018-12-14 09:45:10 --> Security Class Initialized
+DEBUG - 2018-12-14 09:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:45:10 --> Input Class Initialized
+INFO - 2018-12-14 09:45:10 --> Language Class Initialized
+INFO - 2018-12-14 09:45:10 --> Loader Class Initialized
+INFO - 2018-12-14 09:45:10 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:45:10 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:45:10 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:45:10 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:45:10 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:45:10 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:45:10 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:45:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:45:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:45:13 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:45:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:45:13 --> Form Validation Class Initialized
+INFO - 2018-12-14 09:45:13 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\payday.php
+INFO - 2018-12-14 09:45:13 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 09:45:13 --> Final output sent to browser
+DEBUG - 2018-12-14 09:45:13 --> Total execution time: 3.6586
+INFO - 2018-12-14 09:45:17 --> Config Class Initialized
+INFO - 2018-12-14 09:45:17 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:45:17 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:45:17 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:45:17 --> URI Class Initialized
+INFO - 2018-12-14 09:45:17 --> Router Class Initialized
+INFO - 2018-12-14 09:45:17 --> Output Class Initialized
+INFO - 2018-12-14 09:45:17 --> Security Class Initialized
+DEBUG - 2018-12-14 09:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:45:17 --> Input Class Initialized
+INFO - 2018-12-14 09:45:17 --> Language Class Initialized
+INFO - 2018-12-14 09:45:17 --> Loader Class Initialized
+INFO - 2018-12-14 09:45:17 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:45:17 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:45:17 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:45:17 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:45:17 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:45:17 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:45:17 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:45:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:45:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:45:17 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:45:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:45:17 --> Form Validation Class Initialized
+INFO - 2018-12-14 09:45:18 --> Final output sent to browser
+DEBUG - 2018-12-14 09:45:18 --> Total execution time: 0.2065
+INFO - 2018-12-14 09:45:22 --> Config Class Initialized
+INFO - 2018-12-14 09:45:22 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:45:22 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:45:22 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:45:22 --> URI Class Initialized
+INFO - 2018-12-14 09:45:22 --> Router Class Initialized
+INFO - 2018-12-14 09:45:22 --> Output Class Initialized
+INFO - 2018-12-14 09:45:22 --> Security Class Initialized
+DEBUG - 2018-12-14 09:45:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:45:22 --> Input Class Initialized
+INFO - 2018-12-14 09:45:22 --> Language Class Initialized
+INFO - 2018-12-14 09:45:22 --> Loader Class Initialized
+INFO - 2018-12-14 09:45:22 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:45:22 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:45:22 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:45:22 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:45:22 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:45:22 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:45:22 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:45:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:45:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:45:22 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:45:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:45:22 --> Form Validation Class Initialized
+INFO - 2018-12-14 09:45:23 --> Config Class Initialized
+INFO - 2018-12-14 09:45:23 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:45:23 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:45:23 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:45:23 --> URI Class Initialized
+INFO - 2018-12-14 09:45:23 --> Router Class Initialized
+INFO - 2018-12-14 09:45:23 --> Output Class Initialized
+INFO - 2018-12-14 09:45:23 --> Security Class Initialized
+DEBUG - 2018-12-14 09:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:45:23 --> Input Class Initialized
+INFO - 2018-12-14 09:45:23 --> Language Class Initialized
+INFO - 2018-12-14 09:45:23 --> Loader Class Initialized
+INFO - 2018-12-14 09:45:23 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:45:23 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:45:23 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:45:23 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:45:23 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:45:23 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:45:23 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:45:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:45:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:45:23 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:45:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:45:23 --> Form Validation Class Initialized
+INFO - 2018-12-14 09:45:23 --> Final output sent to browser
+DEBUG - 2018-12-14 09:45:23 --> Total execution time: 0.2441
+INFO - 2018-12-14 09:46:58 --> Config Class Initialized
+INFO - 2018-12-14 09:46:58 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:46:58 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:46:58 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:46:58 --> URI Class Initialized
+INFO - 2018-12-14 09:46:58 --> Router Class Initialized
+INFO - 2018-12-14 09:46:58 --> Output Class Initialized
+INFO - 2018-12-14 09:46:58 --> Security Class Initialized
+DEBUG - 2018-12-14 09:46:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:46:58 --> Input Class Initialized
+INFO - 2018-12-14 09:46:58 --> Language Class Initialized
+INFO - 2018-12-14 09:46:58 --> Loader Class Initialized
+INFO - 2018-12-14 09:46:58 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:46:58 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:46:58 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:46:58 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:46:58 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:46:58 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:46:58 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:46:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:46:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:46:58 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:46:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:46:58 --> Form Validation Class Initialized
+INFO - 2018-12-14 09:46:58 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\report.php
+INFO - 2018-12-14 09:46:58 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 09:46:58 --> Final output sent to browser
+DEBUG - 2018-12-14 09:46:58 --> Total execution time: 0.2519
+INFO - 2018-12-14 09:46:59 --> Config Class Initialized
+INFO - 2018-12-14 09:46:59 --> Hooks Class Initialized
+DEBUG - 2018-12-14 09:46:59 --> UTF-8 Support Enabled
+INFO - 2018-12-14 09:46:59 --> Utf8 Class Initialized
+INFO - 2018-12-14 09:46:59 --> URI Class Initialized
+INFO - 2018-12-14 09:46:59 --> Router Class Initialized
+INFO - 2018-12-14 09:46:59 --> Output Class Initialized
+INFO - 2018-12-14 09:46:59 --> Security Class Initialized
+DEBUG - 2018-12-14 09:46:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 09:46:59 --> Input Class Initialized
+INFO - 2018-12-14 09:46:59 --> Language Class Initialized
+INFO - 2018-12-14 09:46:59 --> Loader Class Initialized
+INFO - 2018-12-14 09:46:59 --> Helper loaded: url_helper
+INFO - 2018-12-14 09:46:59 --> Helper loaded: form_helper
+INFO - 2018-12-14 09:46:59 --> Helper loaded: html_helper
+INFO - 2018-12-14 09:46:59 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 09:46:59 --> Helper loaded: layout_helper
+INFO - 2018-12-14 09:46:59 --> Helper loaded: func_helper
+INFO - 2018-12-14 09:46:59 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 09:46:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 09:46:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 09:46:59 --> Controller Class Initialized
+DEBUG - 2018-12-14 09:46:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 09:46:59 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:12:37 --> Config Class Initialized
+INFO - 2018-12-14 10:12:37 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:12:37 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:12:37 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:12:37 --> URI Class Initialized
+INFO - 2018-12-14 10:12:37 --> Router Class Initialized
+INFO - 2018-12-14 10:12:37 --> Output Class Initialized
+INFO - 2018-12-14 10:12:37 --> Security Class Initialized
+DEBUG - 2018-12-14 10:12:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:12:37 --> Input Class Initialized
+INFO - 2018-12-14 10:12:37 --> Language Class Initialized
+INFO - 2018-12-14 10:12:37 --> Loader Class Initialized
+INFO - 2018-12-14 10:12:37 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:12:37 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:12:37 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:12:37 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:12:37 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:12:37 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:12:37 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:12:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:12:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:12:37 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:12:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:12:37 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:12:37 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:12:37 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:12:37 --> Final output sent to browser
+DEBUG - 2018-12-14 10:12:37 --> Total execution time: 0.2775
+INFO - 2018-12-14 10:12:38 --> Config Class Initialized
+INFO - 2018-12-14 10:12:38 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:12:38 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:12:38 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:12:38 --> URI Class Initialized
+INFO - 2018-12-14 10:12:38 --> Router Class Initialized
+INFO - 2018-12-14 10:12:38 --> Output Class Initialized
+INFO - 2018-12-14 10:12:38 --> Security Class Initialized
+DEBUG - 2018-12-14 10:12:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:12:38 --> Input Class Initialized
+INFO - 2018-12-14 10:12:38 --> Language Class Initialized
+INFO - 2018-12-14 10:12:38 --> Loader Class Initialized
+INFO - 2018-12-14 10:12:38 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:12:38 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:12:38 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:12:38 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:12:38 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:12:38 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:12:38 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:12:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:12:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:12:38 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:12:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:12:38 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:12:39 --> Final output sent to browser
+DEBUG - 2018-12-14 10:12:39 --> Total execution time: 0.2031
+INFO - 2018-12-14 10:12:40 --> Config Class Initialized
+INFO - 2018-12-14 10:12:40 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:12:40 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:12:40 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:12:40 --> URI Class Initialized
+INFO - 2018-12-14 10:12:40 --> Router Class Initialized
+INFO - 2018-12-14 10:12:40 --> Output Class Initialized
+INFO - 2018-12-14 10:12:40 --> Security Class Initialized
+DEBUG - 2018-12-14 10:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:12:40 --> Input Class Initialized
+INFO - 2018-12-14 10:12:40 --> Language Class Initialized
+INFO - 2018-12-14 10:12:40 --> Loader Class Initialized
+INFO - 2018-12-14 10:12:40 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:12:40 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:12:40 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:12:40 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:12:40 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:12:40 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:12:40 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:12:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:12:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:12:40 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:12:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:12:40 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:12:40 --> Final output sent to browser
+DEBUG - 2018-12-14 10:12:40 --> Total execution time: 0.1594
+INFO - 2018-12-14 10:13:16 --> Config Class Initialized
+INFO - 2018-12-14 10:13:16 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:16 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:16 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:16 --> URI Class Initialized
+INFO - 2018-12-14 10:13:16 --> Router Class Initialized
+INFO - 2018-12-14 10:13:16 --> Output Class Initialized
+INFO - 2018-12-14 10:13:16 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:16 --> Input Class Initialized
+INFO - 2018-12-14 10:13:16 --> Language Class Initialized
+INFO - 2018-12-14 10:13:16 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:16 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:16 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:16 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:16 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:16 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:16 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:16 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:16 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:16 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:16 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:13:16 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:13:16 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:16 --> Total execution time: 0.1689
+INFO - 2018-12-14 10:13:17 --> Config Class Initialized
+INFO - 2018-12-14 10:13:17 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:17 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:17 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:17 --> URI Class Initialized
+INFO - 2018-12-14 10:13:17 --> Router Class Initialized
+INFO - 2018-12-14 10:13:17 --> Output Class Initialized
+INFO - 2018-12-14 10:13:17 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:17 --> Input Class Initialized
+INFO - 2018-12-14 10:13:17 --> Language Class Initialized
+INFO - 2018-12-14 10:13:17 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:17 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:17 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:17 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:17 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:17 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:17 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:17 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:17 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:17 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:17 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:17 --> Total execution time: 0.1715
+INFO - 2018-12-14 10:13:22 --> Config Class Initialized
+INFO - 2018-12-14 10:13:22 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:23 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:23 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:23 --> URI Class Initialized
+INFO - 2018-12-14 10:13:23 --> Router Class Initialized
+INFO - 2018-12-14 10:13:23 --> Output Class Initialized
+INFO - 2018-12-14 10:13:23 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:23 --> Input Class Initialized
+INFO - 2018-12-14 10:13:23 --> Language Class Initialized
+INFO - 2018-12-14 10:13:23 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:23 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:23 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:23 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:23 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:23 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:23 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:23 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:23 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:23 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:23 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:23 --> Total execution time: 0.1626
+INFO - 2018-12-14 10:13:54 --> Config Class Initialized
+INFO - 2018-12-14 10:13:54 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:54 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:54 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:54 --> URI Class Initialized
+INFO - 2018-12-14 10:13:54 --> Router Class Initialized
+INFO - 2018-12-14 10:13:54 --> Output Class Initialized
+INFO - 2018-12-14 10:13:54 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:54 --> Input Class Initialized
+INFO - 2018-12-14 10:13:54 --> Language Class Initialized
+INFO - 2018-12-14 10:13:54 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:54 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:54 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:54 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:54 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:54 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:54 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:54 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:54 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:54 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:54 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:13:54 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:13:54 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:54 --> Total execution time: 0.1795
+INFO - 2018-12-14 10:13:56 --> Config Class Initialized
+INFO - 2018-12-14 10:13:56 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:56 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:56 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:56 --> URI Class Initialized
+INFO - 2018-12-14 10:13:56 --> Router Class Initialized
+INFO - 2018-12-14 10:13:56 --> Output Class Initialized
+INFO - 2018-12-14 10:13:56 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:56 --> Input Class Initialized
+INFO - 2018-12-14 10:13:56 --> Language Class Initialized
+INFO - 2018-12-14 10:13:56 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:56 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:56 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:56 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:56 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:56 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:56 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:56 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:56 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:56 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:56 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:56 --> Total execution time: 0.1638
+INFO - 2018-12-14 10:13:58 --> Config Class Initialized
+INFO - 2018-12-14 10:13:58 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:13:58 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:13:58 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:13:58 --> URI Class Initialized
+INFO - 2018-12-14 10:13:58 --> Router Class Initialized
+INFO - 2018-12-14 10:13:58 --> Output Class Initialized
+INFO - 2018-12-14 10:13:58 --> Security Class Initialized
+DEBUG - 2018-12-14 10:13:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:13:58 --> Input Class Initialized
+INFO - 2018-12-14 10:13:58 --> Language Class Initialized
+INFO - 2018-12-14 10:13:58 --> Loader Class Initialized
+INFO - 2018-12-14 10:13:58 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:13:58 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:13:58 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:13:58 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:13:58 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:13:58 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:13:58 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:13:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:13:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:13:58 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:13:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:13:58 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:13:58 --> Final output sent to browser
+DEBUG - 2018-12-14 10:13:58 --> Total execution time: 0.1697
+INFO - 2018-12-14 10:22:25 --> Config Class Initialized
+INFO - 2018-12-14 10:22:25 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:22:25 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:22:25 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:22:25 --> URI Class Initialized
+INFO - 2018-12-14 10:22:25 --> Router Class Initialized
+INFO - 2018-12-14 10:22:25 --> Output Class Initialized
+INFO - 2018-12-14 10:22:25 --> Security Class Initialized
+DEBUG - 2018-12-14 10:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:22:25 --> Input Class Initialized
+INFO - 2018-12-14 10:22:25 --> Language Class Initialized
+INFO - 2018-12-14 10:22:25 --> Loader Class Initialized
+INFO - 2018-12-14 10:22:25 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:22:25 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:22:25 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:22:25 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:22:25 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:22:25 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:22:25 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:22:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:22:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:22:25 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:22:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:22:25 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:22:25 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:22:25 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:22:25 --> Final output sent to browser
+DEBUG - 2018-12-14 10:22:25 --> Total execution time: 0.2413
+INFO - 2018-12-14 10:22:28 --> Config Class Initialized
+INFO - 2018-12-14 10:22:28 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:22:28 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:22:28 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:22:28 --> URI Class Initialized
+INFO - 2018-12-14 10:22:28 --> Router Class Initialized
+INFO - 2018-12-14 10:22:28 --> Output Class Initialized
+INFO - 2018-12-14 10:22:28 --> Security Class Initialized
+DEBUG - 2018-12-14 10:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:22:28 --> Input Class Initialized
+INFO - 2018-12-14 10:22:28 --> Language Class Initialized
+INFO - 2018-12-14 10:22:28 --> Loader Class Initialized
+INFO - 2018-12-14 10:22:28 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:22:28 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:22:28 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:22:28 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:22:28 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:22:28 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:22:28 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:22:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:22:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:22:28 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:22:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:22:28 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:22:28 --> Final output sent to browser
+DEBUG - 2018-12-14 10:22:28 --> Total execution time: 0.3096
+INFO - 2018-12-14 10:22:31 --> Config Class Initialized
+INFO - 2018-12-14 10:22:31 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:22:31 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:22:31 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:22:31 --> URI Class Initialized
+INFO - 2018-12-14 10:22:31 --> Router Class Initialized
+INFO - 2018-12-14 10:22:31 --> Output Class Initialized
+INFO - 2018-12-14 10:22:31 --> Security Class Initialized
+DEBUG - 2018-12-14 10:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:22:31 --> Input Class Initialized
+INFO - 2018-12-14 10:22:31 --> Language Class Initialized
+INFO - 2018-12-14 10:22:31 --> Loader Class Initialized
+INFO - 2018-12-14 10:22:31 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:22:31 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:22:31 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:22:31 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:22:31 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:22:31 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:22:31 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:22:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:22:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:22:31 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:22:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:22:31 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:22:31 --> Final output sent to browser
+DEBUG - 2018-12-14 10:22:31 --> Total execution time: 0.1578
+INFO - 2018-12-14 10:30:06 --> Config Class Initialized
+INFO - 2018-12-14 10:30:06 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:06 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:06 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:06 --> URI Class Initialized
+INFO - 2018-12-14 10:30:06 --> Router Class Initialized
+INFO - 2018-12-14 10:30:06 --> Output Class Initialized
+INFO - 2018-12-14 10:30:06 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:06 --> Input Class Initialized
+INFO - 2018-12-14 10:30:06 --> Language Class Initialized
+INFO - 2018-12-14 10:30:06 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:06 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:06 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:06 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:06 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:06 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:06 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:06 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:06 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:06 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:06 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:30:06 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:30:06 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:06 --> Total execution time: 0.2276
+INFO - 2018-12-14 10:30:08 --> Config Class Initialized
+INFO - 2018-12-14 10:30:08 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:08 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:08 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:08 --> URI Class Initialized
+INFO - 2018-12-14 10:30:08 --> Router Class Initialized
+INFO - 2018-12-14 10:30:08 --> Output Class Initialized
+INFO - 2018-12-14 10:30:08 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:08 --> Input Class Initialized
+INFO - 2018-12-14 10:30:08 --> Language Class Initialized
+INFO - 2018-12-14 10:30:08 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:08 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:08 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:08 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:08 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:08 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:08 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:08 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:08 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:08 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:08 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:08 --> Total execution time: 0.2388
+INFO - 2018-12-14 10:30:10 --> Config Class Initialized
+INFO - 2018-12-14 10:30:10 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:10 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:10 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:10 --> URI Class Initialized
+INFO - 2018-12-14 10:30:10 --> Router Class Initialized
+INFO - 2018-12-14 10:30:10 --> Output Class Initialized
+INFO - 2018-12-14 10:30:10 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:10 --> Input Class Initialized
+INFO - 2018-12-14 10:30:10 --> Language Class Initialized
+INFO - 2018-12-14 10:30:10 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:10 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:10 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:10 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:10 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:10 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:10 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:10 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:10 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:10 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:10 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:10 --> Total execution time: 0.1638
+INFO - 2018-12-14 10:30:52 --> Config Class Initialized
+INFO - 2018-12-14 10:30:52 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:52 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:52 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:52 --> URI Class Initialized
+INFO - 2018-12-14 10:30:52 --> Router Class Initialized
+INFO - 2018-12-14 10:30:52 --> Output Class Initialized
+INFO - 2018-12-14 10:30:52 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:52 --> Input Class Initialized
+INFO - 2018-12-14 10:30:52 --> Language Class Initialized
+INFO - 2018-12-14 10:30:52 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:52 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:52 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:52 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:52 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:52 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:52 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:52 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:52 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:52 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:52 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\paydays.php
+INFO - 2018-12-14 10:30:52 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:30:52 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:52 --> Total execution time: 0.1799
+INFO - 2018-12-14 10:30:54 --> Config Class Initialized
+INFO - 2018-12-14 10:30:54 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:54 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:54 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:54 --> URI Class Initialized
+INFO - 2018-12-14 10:30:54 --> Router Class Initialized
+INFO - 2018-12-14 10:30:54 --> Output Class Initialized
+INFO - 2018-12-14 10:30:54 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:54 --> Input Class Initialized
+INFO - 2018-12-14 10:30:54 --> Language Class Initialized
+INFO - 2018-12-14 10:30:54 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:54 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:54 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:54 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:54 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:54 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:54 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:54 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:54 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:54 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:54 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:54 --> Total execution time: 0.1940
+INFO - 2018-12-14 10:30:56 --> Config Class Initialized
+INFO - 2018-12-14 10:30:56 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:30:56 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:30:56 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:30:56 --> URI Class Initialized
+INFO - 2018-12-14 10:30:56 --> Router Class Initialized
+INFO - 2018-12-14 10:30:56 --> Output Class Initialized
+INFO - 2018-12-14 10:30:56 --> Security Class Initialized
+DEBUG - 2018-12-14 10:30:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:30:56 --> Input Class Initialized
+INFO - 2018-12-14 10:30:56 --> Language Class Initialized
+INFO - 2018-12-14 10:30:56 --> Loader Class Initialized
+INFO - 2018-12-14 10:30:56 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:30:56 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:30:56 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:30:56 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:30:56 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:30:56 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:30:56 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:30:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:30:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:30:56 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:30:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:30:56 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:30:56 --> Final output sent to browser
+DEBUG - 2018-12-14 10:30:56 --> Total execution time: 0.1770
+INFO - 2018-12-14 10:47:02 --> Config Class Initialized
+INFO - 2018-12-14 10:47:02 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:47:02 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:47:02 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:47:02 --> URI Class Initialized
+INFO - 2018-12-14 10:47:03 --> Router Class Initialized
+INFO - 2018-12-14 10:47:03 --> Output Class Initialized
+INFO - 2018-12-14 10:47:03 --> Security Class Initialized
+DEBUG - 2018-12-14 10:47:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:47:03 --> Input Class Initialized
+INFO - 2018-12-14 10:47:03 --> Language Class Initialized
+INFO - 2018-12-14 10:47:03 --> Loader Class Initialized
+INFO - 2018-12-14 10:47:03 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:47:03 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:47:03 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:47:03 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:47:03 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:47:03 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:47:03 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:47:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:47:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:47:03 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:47:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:47:03 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:47:03 --> Final output sent to browser
+DEBUG - 2018-12-14 10:47:03 --> Total execution time: 0.2134
+INFO - 2018-12-14 10:49:09 --> Config Class Initialized
+INFO - 2018-12-14 10:49:09 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:49:09 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:49:09 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:49:09 --> URI Class Initialized
+INFO - 2018-12-14 10:49:09 --> Router Class Initialized
+INFO - 2018-12-14 10:49:09 --> Output Class Initialized
+INFO - 2018-12-14 10:49:09 --> Security Class Initialized
+DEBUG - 2018-12-14 10:49:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:49:09 --> Input Class Initialized
+INFO - 2018-12-14 10:49:09 --> Language Class Initialized
+INFO - 2018-12-14 10:49:09 --> Loader Class Initialized
+INFO - 2018-12-14 10:49:09 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:49:09 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:49:09 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:49:09 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:49:09 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:49:09 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:49:09 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:49:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:49:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:49:09 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:49:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:49:09 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:49:09 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\report.php
+INFO - 2018-12-14 10:49:09 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:49:09 --> Final output sent to browser
+DEBUG - 2018-12-14 10:49:09 --> Total execution time: 0.1680
+INFO - 2018-12-14 10:49:11 --> Config Class Initialized
+INFO - 2018-12-14 10:49:11 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:49:11 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:49:11 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:49:11 --> URI Class Initialized
+INFO - 2018-12-14 10:49:11 --> Router Class Initialized
+INFO - 2018-12-14 10:49:11 --> Output Class Initialized
+INFO - 2018-12-14 10:49:11 --> Security Class Initialized
+DEBUG - 2018-12-14 10:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:49:11 --> Input Class Initialized
+INFO - 2018-12-14 10:49:11 --> Language Class Initialized
+INFO - 2018-12-14 10:49:11 --> Loader Class Initialized
+INFO - 2018-12-14 10:49:11 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:49:11 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:49:11 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:49:11 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:49:11 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:49:11 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:49:11 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:49:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:49:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:49:11 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:49:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:49:11 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:49:23 --> Config Class Initialized
+INFO - 2018-12-14 10:49:23 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:49:23 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:49:23 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:49:23 --> URI Class Initialized
+INFO - 2018-12-14 10:49:23 --> Router Class Initialized
+INFO - 2018-12-14 10:49:23 --> Output Class Initialized
+INFO - 2018-12-14 10:49:23 --> Security Class Initialized
+DEBUG - 2018-12-14 10:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:49:23 --> Input Class Initialized
+INFO - 2018-12-14 10:49:23 --> Language Class Initialized
+INFO - 2018-12-14 10:49:23 --> Loader Class Initialized
+INFO - 2018-12-14 10:49:23 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:49:23 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:49:23 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:49:23 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:49:23 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:49:23 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:49:23 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:49:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:49:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:49:23 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:49:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:49:23 --> Form Validation Class Initialized
+INFO - 2018-12-14 10:49:23 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\report.php
+INFO - 2018-12-14 10:49:23 --> File loaded: C:\MNEMONIC\GDrive\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2018-12-14 10:49:23 --> Final output sent to browser
+DEBUG - 2018-12-14 10:49:23 --> Total execution time: 0.1653
+INFO - 2018-12-14 10:49:25 --> Config Class Initialized
+INFO - 2018-12-14 10:49:25 --> Hooks Class Initialized
+DEBUG - 2018-12-14 10:49:25 --> UTF-8 Support Enabled
+INFO - 2018-12-14 10:49:25 --> Utf8 Class Initialized
+INFO - 2018-12-14 10:49:25 --> URI Class Initialized
+INFO - 2018-12-14 10:49:25 --> Router Class Initialized
+INFO - 2018-12-14 10:49:25 --> Output Class Initialized
+INFO - 2018-12-14 10:49:25 --> Security Class Initialized
+DEBUG - 2018-12-14 10:49:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-14 10:49:25 --> Input Class Initialized
+INFO - 2018-12-14 10:49:25 --> Language Class Initialized
+INFO - 2018-12-14 10:49:25 --> Loader Class Initialized
+INFO - 2018-12-14 10:49:25 --> Helper loaded: url_helper
+INFO - 2018-12-14 10:49:25 --> Helper loaded: form_helper
+INFO - 2018-12-14 10:49:25 --> Helper loaded: html_helper
+INFO - 2018-12-14 10:49:25 --> Helper loaded: rbac_helper
+INFO - 2018-12-14 10:49:25 --> Helper loaded: layout_helper
+INFO - 2018-12-14 10:49:25 --> Helper loaded: func_helper
+INFO - 2018-12-14 10:49:25 --> Database Driver Class Initialized
+DEBUG - 2018-12-14 10:49:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-14 10:49:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-14 10:49:25 --> Controller Class Initialized
+DEBUG - 2018-12-14 10:49:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-12-14 10:49:25 --> Form Validation Class Initialized

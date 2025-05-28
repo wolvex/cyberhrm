@@ -1,0 +1,29 @@
+<script src="<?php echo base_url('assets/js/benefit_grade.js')?>"></script>
+<div class="ui small modal" id="mdlGrade">
+	<div id="ttlGrade" class="header">
+		Tunjangan Jabatan
+	</div>
+	<div class="content small text">
+		<form id="frmGrade" class="ui mini form">
+			<div class="three fields">
+				<div class="field">
+					<label>Kode</label>
+					<input name="CODE" readonly style="font-weight:bold;text-align:center">
+				</div>
+				<div class="field">
+					<label>Level</label>
+					<input name="NAME" readonly style="font-weight:bold;text-align:center">
+				</div>
+				<div class="field">
+					<label>Tunjangan (Rp)</label>
+					<input name="ALLOWANCE" data-tag="num">
+				</div>
+			</div>
+			<input name="ID" type="hidden">
+		</form>
+	</div>
+	<div class="actions">
+		<div id="cmdCancel" class="ui mini cancel labeled icon button">Batal<i class="undo outline icon"></i></div>
+		<div id="cmdSaveGrade" class="ui mini positive labeled icon button">Simpan<i class="checkmark icon"></i></div>
+	</div>
+</div>

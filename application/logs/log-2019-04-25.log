@@ -1,0 +1,50 @@
+INFO - 2019-04-25 08:13:39 --> Config Class Initialized
+INFO - 2019-04-25 08:13:39 --> Hooks Class Initialized
+DEBUG - 2019-04-25 08:13:39 --> UTF-8 Support Enabled
+INFO - 2019-04-25 08:13:39 --> Utf8 Class Initialized
+INFO - 2019-04-25 08:13:39 --> URI Class Initialized
+INFO - 2019-04-25 08:13:40 --> Router Class Initialized
+INFO - 2019-04-25 08:13:40 --> Output Class Initialized
+INFO - 2019-04-25 08:13:40 --> Security Class Initialized
+DEBUG - 2019-04-25 08:13:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-25 08:13:40 --> Input Class Initialized
+INFO - 2019-04-25 08:13:40 --> Language Class Initialized
+INFO - 2019-04-25 08:13:40 --> Loader Class Initialized
+INFO - 2019-04-25 08:13:40 --> Helper loaded: url_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: form_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: html_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: rbac_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: layout_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: func_helper
+INFO - 2019-04-25 08:13:40 --> Helper loaded: oraxe_helper
+INFO - 2019-04-25 08:13:40 --> Database Driver Class Initialized
+DEBUG - 2019-04-25 08:13:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-25 08:13:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-25 08:13:42 --> Controller Class Initialized
+DEBUG - 2019-04-25 08:13:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-25 08:13:42 --> Form Validation Class Initialized
+INFO - 2019-04-25 08:13:48 --> Config Class Initialized
+INFO - 2019-04-25 08:13:48 --> Hooks Class Initialized
+DEBUG - 2019-04-25 08:13:48 --> UTF-8 Support Enabled
+INFO - 2019-04-25 08:13:48 --> Utf8 Class Initialized
+INFO - 2019-04-25 08:13:48 --> URI Class Initialized
+INFO - 2019-04-25 08:13:48 --> Router Class Initialized
+INFO - 2019-04-25 08:13:48 --> Output Class Initialized
+INFO - 2019-04-25 08:13:48 --> Security Class Initialized
+DEBUG - 2019-04-25 08:13:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-25 08:13:48 --> Input Class Initialized
+INFO - 2019-04-25 08:13:48 --> Language Class Initialized
+INFO - 2019-04-25 08:13:48 --> Loader Class Initialized
+INFO - 2019-04-25 08:13:48 --> Helper loaded: url_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: form_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: html_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: rbac_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: layout_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: func_helper
+INFO - 2019-04-25 08:13:48 --> Helper loaded: oraxe_helper
+INFO - 2019-04-25 08:13:48 --> Database Driver Class Initialized
+DEBUG - 2019-04-25 08:13:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-25 08:13:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-25 08:13:48 --> Controller Class Initialized
+DEBUG - 2019-04-25 08:13:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-25 08:13:48 --> Form Validation Class Initialized

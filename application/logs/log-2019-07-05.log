@@ -1,0 +1,23 @@
+INFO - 2019-07-05 13:35:59 --> Config Class Initialized
+INFO - 2019-07-05 13:35:59 --> Hooks Class Initialized
+DEBUG - 2019-07-05 13:35:59 --> UTF-8 Support Enabled
+INFO - 2019-07-05 13:35:59 --> Utf8 Class Initialized
+INFO - 2019-07-05 13:36:00 --> URI Class Initialized
+INFO - 2019-07-05 13:36:00 --> Router Class Initialized
+INFO - 2019-07-05 13:36:00 --> Output Class Initialized
+INFO - 2019-07-05 13:36:00 --> Security Class Initialized
+DEBUG - 2019-07-05 13:36:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-07-05 13:36:00 --> Input Class Initialized
+INFO - 2019-07-05 13:36:00 --> Language Class Initialized
+INFO - 2019-07-05 13:36:00 --> Loader Class Initialized
+INFO - 2019-07-05 13:36:00 --> Helper loaded: url_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: form_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: html_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: rbac_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: layout_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: func_helper
+INFO - 2019-07-05 13:36:01 --> Helper loaded: oraxe_helper
+INFO - 2019-07-05 13:36:01 --> Database Driver Class Initialized
+ERROR - 2019-07-05 13:36:15 --> Severity: Warning --> oci_connect(): ORA-12541: TNS:no listener C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\system\database\drivers\oci8\oci8_driver.php 238
+ERROR - 2019-07-05 13:36:15 --> Unable to connect to the database
+INFO - 2019-07-05 13:36:15 --> Language file loaded: language/english/db_lang.php

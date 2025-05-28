@@ -1,0 +1,7 @@
+$(document).ready(function() {
+	document.title = 'CyberHRM - Tunjangan Pegawai';
+	
+	$('.ui.accordion').accordion('open', 2);
+	$('#mnuBenefit').state('activate');
+	$('.menu .item').tab();	
+});

@@ -1,0 +1,723 @@
+INFO - 2019-04-03 17:35:46 --> Config Class Initialized
+INFO - 2019-04-03 17:35:46 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:35:46 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:35:46 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:35:46 --> URI Class Initialized
+INFO - 2019-04-03 17:35:47 --> Router Class Initialized
+INFO - 2019-04-03 17:35:47 --> Output Class Initialized
+INFO - 2019-04-03 17:35:47 --> Security Class Initialized
+DEBUG - 2019-04-03 17:35:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:35:47 --> Input Class Initialized
+INFO - 2019-04-03 17:35:47 --> Language Class Initialized
+INFO - 2019-04-03 17:35:47 --> Loader Class Initialized
+INFO - 2019-04-03 17:35:47 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:35:47 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:35:47 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:35:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:35:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:35:49 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:35:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:35:49 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[company]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[structure]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[report]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[workhour]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[holiday]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[employees]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[timesheet]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[absent]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[onleave]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[overtime]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[schemas]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[adjustment]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[reimburse]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[wages]method[get]
+INFO - 2019-04-03 17:35:49 --> user_id=[lutfi]module=[paydays]method[get]
+INFO - 2019-04-03 17:35:49 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\holiday.php
+INFO - 2019-04-03 17:35:49 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2019-04-03 17:35:49 --> Final output sent to browser
+DEBUG - 2019-04-03 17:35:49 --> Total execution time: 3.0883
+INFO - 2019-04-03 17:35:51 --> Config Class Initialized
+INFO - 2019-04-03 17:35:51 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:35:51 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:35:51 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:35:51 --> URI Class Initialized
+INFO - 2019-04-03 17:35:51 --> Router Class Initialized
+INFO - 2019-04-03 17:35:51 --> Output Class Initialized
+INFO - 2019-04-03 17:35:51 --> Security Class Initialized
+DEBUG - 2019-04-03 17:35:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:35:51 --> Input Class Initialized
+INFO - 2019-04-03 17:35:51 --> Language Class Initialized
+INFO - 2019-04-03 17:35:51 --> Loader Class Initialized
+INFO - 2019-04-03 17:35:51 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:35:51 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:35:51 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:35:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:35:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:35:51 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:35:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:35:51 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:35:51 --> user_id=[lutfi]module=[holiday]method[query]
+INFO - 2019-04-03 17:35:52 --> Final output sent to browser
+DEBUG - 2019-04-03 17:35:52 --> Total execution time: 0.1603
+INFO - 2019-04-03 17:35:55 --> Config Class Initialized
+INFO - 2019-04-03 17:35:55 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:35:55 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:35:55 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:35:55 --> URI Class Initialized
+INFO - 2019-04-03 17:35:55 --> Router Class Initialized
+INFO - 2019-04-03 17:35:55 --> Output Class Initialized
+INFO - 2019-04-03 17:35:55 --> Security Class Initialized
+DEBUG - 2019-04-03 17:35:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:35:55 --> Input Class Initialized
+INFO - 2019-04-03 17:35:55 --> Language Class Initialized
+INFO - 2019-04-03 17:35:56 --> Loader Class Initialized
+INFO - 2019-04-03 17:35:56 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:35:56 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:35:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:35:56 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:35:56 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:35:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:35:56 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[company]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[structure]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[report]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[workhour]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[holiday]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[employees]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[timesheet]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[absent]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[onleave]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[overtime]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[schemas]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[adjustment]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[reimburse]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[wages]method[get]
+INFO - 2019-04-03 17:35:56 --> user_id=[lutfi]module=[paydays]method[get]
+INFO - 2019-04-03 17:35:56 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\timesheet.php
+INFO - 2019-04-03 17:35:56 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2019-04-03 17:35:56 --> Final output sent to browser
+DEBUG - 2019-04-03 17:35:56 --> Total execution time: 0.4733
+INFO - 2019-04-03 17:35:56 --> Config Class Initialized
+INFO - 2019-04-03 17:35:56 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:35:56 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:35:56 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:35:56 --> URI Class Initialized
+INFO - 2019-04-03 17:35:56 --> Router Class Initialized
+INFO - 2019-04-03 17:35:56 --> Output Class Initialized
+INFO - 2019-04-03 17:35:56 --> Security Class Initialized
+DEBUG - 2019-04-03 17:35:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:35:56 --> Input Class Initialized
+INFO - 2019-04-03 17:35:56 --> Language Class Initialized
+INFO - 2019-04-03 17:35:56 --> Loader Class Initialized
+INFO - 2019-04-03 17:35:56 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:35:56 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:35:56 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:35:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:35:57 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:35:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:35:57 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:35:57 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:35:57 --> Final output sent to browser
+DEBUG - 2019-04-03 17:35:57 --> Total execution time: 0.5256
+INFO - 2019-04-03 17:38:24 --> Config Class Initialized
+INFO - 2019-04-03 17:38:24 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:24 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:24 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:24 --> URI Class Initialized
+INFO - 2019-04-03 17:38:24 --> Router Class Initialized
+INFO - 2019-04-03 17:38:24 --> Output Class Initialized
+INFO - 2019-04-03 17:38:24 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:24 --> Input Class Initialized
+INFO - 2019-04-03 17:38:24 --> Language Class Initialized
+INFO - 2019-04-03 17:38:24 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:24 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:24 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:24 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:24 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:24 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:24 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:24 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:38:25 --> Config Class Initialized
+INFO - 2019-04-03 17:38:25 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:25 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:25 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:25 --> URI Class Initialized
+INFO - 2019-04-03 17:38:25 --> Router Class Initialized
+INFO - 2019-04-03 17:38:25 --> Output Class Initialized
+INFO - 2019-04-03 17:38:25 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:25 --> Input Class Initialized
+INFO - 2019-04-03 17:38:25 --> Language Class Initialized
+INFO - 2019-04-03 17:38:25 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:25 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:25 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:25 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:25 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:25 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:25 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:38:25 --> Final output sent to browser
+DEBUG - 2019-04-03 17:38:25 --> Total execution time: 0.2094
+INFO - 2019-04-03 17:38:35 --> Config Class Initialized
+INFO - 2019-04-03 17:38:35 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:35 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:35 --> URI Class Initialized
+INFO - 2019-04-03 17:38:35 --> Router Class Initialized
+INFO - 2019-04-03 17:38:35 --> Output Class Initialized
+INFO - 2019-04-03 17:38:35 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:35 --> Input Class Initialized
+INFO - 2019-04-03 17:38:35 --> Language Class Initialized
+INFO - 2019-04-03 17:38:35 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:35 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:35 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:35 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:35 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:35 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:38:35 --> Config Class Initialized
+INFO - 2019-04-03 17:38:35 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:35 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:35 --> URI Class Initialized
+INFO - 2019-04-03 17:38:35 --> Router Class Initialized
+INFO - 2019-04-03 17:38:35 --> Output Class Initialized
+INFO - 2019-04-03 17:38:35 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:35 --> Input Class Initialized
+INFO - 2019-04-03 17:38:35 --> Language Class Initialized
+INFO - 2019-04-03 17:38:35 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:35 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:35 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:35 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:35 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:35 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:35 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:38:35 --> Final output sent to browser
+DEBUG - 2019-04-03 17:38:35 --> Total execution time: 0.2347
+INFO - 2019-04-03 17:38:43 --> Config Class Initialized
+INFO - 2019-04-03 17:38:43 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:43 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:43 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:43 --> URI Class Initialized
+INFO - 2019-04-03 17:38:43 --> Router Class Initialized
+INFO - 2019-04-03 17:38:43 --> Output Class Initialized
+INFO - 2019-04-03 17:38:43 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:43 --> Input Class Initialized
+INFO - 2019-04-03 17:38:43 --> Language Class Initialized
+INFO - 2019-04-03 17:38:43 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:43 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:43 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:43 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:43 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:43 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:43 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:38:44 --> Config Class Initialized
+INFO - 2019-04-03 17:38:44 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:44 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:44 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:44 --> URI Class Initialized
+INFO - 2019-04-03 17:38:44 --> Router Class Initialized
+INFO - 2019-04-03 17:38:44 --> Output Class Initialized
+INFO - 2019-04-03 17:38:44 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:44 --> Input Class Initialized
+INFO - 2019-04-03 17:38:44 --> Language Class Initialized
+INFO - 2019-04-03 17:38:44 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:44 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:44 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:44 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:44 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:44 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:44 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:38:44 --> Final output sent to browser
+DEBUG - 2019-04-03 17:38:44 --> Total execution time: 1.4484
+INFO - 2019-04-03 17:38:49 --> Config Class Initialized
+INFO - 2019-04-03 17:38:49 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:49 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:49 --> URI Class Initialized
+INFO - 2019-04-03 17:38:49 --> Router Class Initialized
+INFO - 2019-04-03 17:38:49 --> Output Class Initialized
+INFO - 2019-04-03 17:38:49 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:49 --> Input Class Initialized
+INFO - 2019-04-03 17:38:49 --> Language Class Initialized
+INFO - 2019-04-03 17:38:49 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:49 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:49 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:49 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:49 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:49 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:38:49 --> Config Class Initialized
+INFO - 2019-04-03 17:38:49 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:49 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:49 --> URI Class Initialized
+INFO - 2019-04-03 17:38:49 --> Router Class Initialized
+INFO - 2019-04-03 17:38:49 --> Output Class Initialized
+INFO - 2019-04-03 17:38:49 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:49 --> Input Class Initialized
+INFO - 2019-04-03 17:38:49 --> Language Class Initialized
+INFO - 2019-04-03 17:38:49 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:49 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:49 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:49 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:49 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:49 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:49 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:38:49 --> Final output sent to browser
+DEBUG - 2019-04-03 17:38:49 --> Total execution time: 0.2109
+INFO - 2019-04-03 17:38:55 --> Config Class Initialized
+INFO - 2019-04-03 17:38:55 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:55 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:55 --> URI Class Initialized
+INFO - 2019-04-03 17:38:55 --> Router Class Initialized
+INFO - 2019-04-03 17:38:55 --> Output Class Initialized
+INFO - 2019-04-03 17:38:55 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:55 --> Input Class Initialized
+INFO - 2019-04-03 17:38:55 --> Language Class Initialized
+INFO - 2019-04-03 17:38:55 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:55 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:55 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:55 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:55 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:55 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:38:55 --> Config Class Initialized
+INFO - 2019-04-03 17:38:55 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:38:55 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:38:55 --> URI Class Initialized
+INFO - 2019-04-03 17:38:55 --> Router Class Initialized
+INFO - 2019-04-03 17:38:55 --> Output Class Initialized
+INFO - 2019-04-03 17:38:55 --> Security Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:38:55 --> Input Class Initialized
+INFO - 2019-04-03 17:38:55 --> Language Class Initialized
+INFO - 2019-04-03 17:38:55 --> Loader Class Initialized
+INFO - 2019-04-03 17:38:55 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:38:55 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:38:55 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:38:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:38:55 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:38:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:38:55 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:38:55 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:38:55 --> Final output sent to browser
+DEBUG - 2019-04-03 17:38:55 --> Total execution time: 0.2074
+INFO - 2019-04-03 17:39:01 --> Config Class Initialized
+INFO - 2019-04-03 17:39:01 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:01 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:01 --> URI Class Initialized
+INFO - 2019-04-03 17:39:01 --> Router Class Initialized
+INFO - 2019-04-03 17:39:01 --> Output Class Initialized
+INFO - 2019-04-03 17:39:01 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:01 --> Input Class Initialized
+INFO - 2019-04-03 17:39:01 --> Language Class Initialized
+INFO - 2019-04-03 17:39:01 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:01 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:01 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:01 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:01 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:01 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:39:01 --> Config Class Initialized
+INFO - 2019-04-03 17:39:01 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:01 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:01 --> URI Class Initialized
+INFO - 2019-04-03 17:39:01 --> Router Class Initialized
+INFO - 2019-04-03 17:39:01 --> Output Class Initialized
+INFO - 2019-04-03 17:39:01 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:01 --> Input Class Initialized
+INFO - 2019-04-03 17:39:01 --> Language Class Initialized
+INFO - 2019-04-03 17:39:01 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:01 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:01 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:01 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:01 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:01 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:01 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:39:01 --> Final output sent to browser
+DEBUG - 2019-04-03 17:39:01 --> Total execution time: 0.2088
+INFO - 2019-04-03 17:39:05 --> Config Class Initialized
+INFO - 2019-04-03 17:39:05 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:05 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:05 --> URI Class Initialized
+INFO - 2019-04-03 17:39:05 --> Router Class Initialized
+INFO - 2019-04-03 17:39:05 --> Output Class Initialized
+INFO - 2019-04-03 17:39:05 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:05 --> Input Class Initialized
+INFO - 2019-04-03 17:39:05 --> Language Class Initialized
+INFO - 2019-04-03 17:39:05 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:05 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:05 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:05 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:05 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:05 --> user_id=[lutfi]module=[timesheet]method[upload]
+INFO - 2019-04-03 17:39:05 --> Config Class Initialized
+INFO - 2019-04-03 17:39:05 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:05 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:05 --> URI Class Initialized
+INFO - 2019-04-03 17:39:05 --> Router Class Initialized
+INFO - 2019-04-03 17:39:05 --> Output Class Initialized
+INFO - 2019-04-03 17:39:05 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:05 --> Input Class Initialized
+INFO - 2019-04-03 17:39:05 --> Language Class Initialized
+INFO - 2019-04-03 17:39:05 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:05 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:05 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:05 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:05 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:05 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:05 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:39:05 --> Final output sent to browser
+DEBUG - 2019-04-03 17:39:05 --> Total execution time: 0.1903
+INFO - 2019-04-03 17:39:40 --> Config Class Initialized
+INFO - 2019-04-03 17:39:40 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:40 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:40 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:40 --> URI Class Initialized
+INFO - 2019-04-03 17:39:40 --> Router Class Initialized
+INFO - 2019-04-03 17:39:40 --> Output Class Initialized
+INFO - 2019-04-03 17:39:40 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:40 --> Input Class Initialized
+INFO - 2019-04-03 17:39:40 --> Language Class Initialized
+INFO - 2019-04-03 17:39:40 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:40 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:40 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:40 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:40 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:40 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:40 --> 1
+INFO - 2019-04-03 17:39:52 --> Final output sent to browser
+DEBUG - 2019-04-03 17:39:52 --> Total execution time: 12.4354
+INFO - 2019-04-03 17:39:59 --> Config Class Initialized
+INFO - 2019-04-03 17:39:59 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:39:59 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:39:59 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:39:59 --> URI Class Initialized
+INFO - 2019-04-03 17:39:59 --> Router Class Initialized
+INFO - 2019-04-03 17:39:59 --> Output Class Initialized
+INFO - 2019-04-03 17:39:59 --> Security Class Initialized
+DEBUG - 2019-04-03 17:39:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:39:59 --> Input Class Initialized
+INFO - 2019-04-03 17:39:59 --> Language Class Initialized
+INFO - 2019-04-03 17:39:59 --> Loader Class Initialized
+INFO - 2019-04-03 17:39:59 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:39:59 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:39:59 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:39:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:39:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:39:59 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:39:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:39:59 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[company]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[structure]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[report]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[workhour]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[holiday]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[employees]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[timesheet]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[absent]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[onleave]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[overtime]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[schemas]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[adjustment]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[reimburse]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[wages]method[get]
+INFO - 2019-04-03 17:39:59 --> user_id=[lutfi]module=[paydays]method[get]
+INFO - 2019-04-03 17:39:59 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\timesheet.php
+INFO - 2019-04-03 17:39:59 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2019-04-03 17:39:59 --> Final output sent to browser
+DEBUG - 2019-04-03 17:39:59 --> Total execution time: 0.1547
+INFO - 2019-04-03 17:40:00 --> Config Class Initialized
+INFO - 2019-04-03 17:40:00 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:40:00 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:40:00 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:40:00 --> URI Class Initialized
+INFO - 2019-04-03 17:40:00 --> Router Class Initialized
+INFO - 2019-04-03 17:40:00 --> Output Class Initialized
+INFO - 2019-04-03 17:40:00 --> Security Class Initialized
+DEBUG - 2019-04-03 17:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:40:00 --> Input Class Initialized
+INFO - 2019-04-03 17:40:00 --> Language Class Initialized
+INFO - 2019-04-03 17:40:00 --> Loader Class Initialized
+INFO - 2019-04-03 17:40:00 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:40:00 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:40:00 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:40:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:40:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:40:00 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:40:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:40:00 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:40:00 --> user_id=[lutfi]module=[timesheet]method[query]
+INFO - 2019-04-03 17:40:00 --> Final output sent to browser
+DEBUG - 2019-04-03 17:40:00 --> Total execution time: 0.3636
+INFO - 2019-04-03 17:40:14 --> Config Class Initialized
+INFO - 2019-04-03 17:40:14 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:40:14 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:40:14 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:40:14 --> URI Class Initialized
+INFO - 2019-04-03 17:40:14 --> Router Class Initialized
+INFO - 2019-04-03 17:40:14 --> Output Class Initialized
+INFO - 2019-04-03 17:40:14 --> Security Class Initialized
+DEBUG - 2019-04-03 17:40:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:40:14 --> Input Class Initialized
+INFO - 2019-04-03 17:40:14 --> Language Class Initialized
+INFO - 2019-04-03 17:40:14 --> Loader Class Initialized
+INFO - 2019-04-03 17:40:14 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:40:14 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:40:14 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:40:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:40:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:40:14 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:40:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:40:14 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[attendance]method[index]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[company]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[structure]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[report]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[workhour]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[holiday]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[employees]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[timesheet]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[absent]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[onleave]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[overtime]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[schemas]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[adjustment]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[reimburse]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[wages]method[get]
+INFO - 2019-04-03 17:40:14 --> user_id=[lutfi]module=[paydays]method[get]
+INFO - 2019-04-03 17:40:14 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\attendance.php
+INFO - 2019-04-03 17:40:14 --> File loaded: C:\MNEMONIC\OneDrive\Projects\Web\cyberhrm\application\views\layouts/default.php
+INFO - 2019-04-03 17:40:14 --> Final output sent to browser
+DEBUG - 2019-04-03 17:40:14 --> Total execution time: 0.2451
+INFO - 2019-04-03 17:40:15 --> Config Class Initialized
+INFO - 2019-04-03 17:40:15 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:40:15 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:40:15 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:40:15 --> URI Class Initialized
+INFO - 2019-04-03 17:40:15 --> Router Class Initialized
+INFO - 2019-04-03 17:40:15 --> Output Class Initialized
+INFO - 2019-04-03 17:40:15 --> Config Class Initialized
+INFO - 2019-04-03 17:40:15 --> Security Class Initialized
+INFO - 2019-04-03 17:40:15 --> Hooks Class Initialized
+DEBUG - 2019-04-03 17:40:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:40:15 --> Input Class Initialized
+INFO - 2019-04-03 17:40:15 --> Language Class Initialized
+DEBUG - 2019-04-03 17:40:15 --> UTF-8 Support Enabled
+INFO - 2019-04-03 17:40:15 --> Utf8 Class Initialized
+INFO - 2019-04-03 17:40:15 --> URI Class Initialized
+INFO - 2019-04-03 17:40:15 --> Loader Class Initialized
+INFO - 2019-04-03 17:40:15 --> Router Class Initialized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:40:15 --> Output Class Initialized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:40:15 --> Security Class Initialized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: layout_helper
+DEBUG - 2019-04-03 17:40:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:40:15 --> Input Class Initialized
+INFO - 2019-04-03 17:40:15 --> Language Class Initialized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:40:15 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:40:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:40:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:40:15 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:40:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:40:15 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:40:15 --> user_id=[lutfi]module=[attendance]method[query]
+INFO - 2019-04-03 17:40:15 --> Loader Class Initialized
+INFO - 2019-04-03 17:40:15 --> Helper loaded: url_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: form_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: html_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: rbac_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: layout_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: func_helper
+INFO - 2019-04-03 17:40:15 --> Helper loaded: oraxe_helper
+INFO - 2019-04-03 17:40:15 --> Database Driver Class Initialized
+DEBUG - 2019-04-03 17:40:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-04-03 17:40:16 --> Final output sent to browser
+DEBUG - 2019-04-03 17:40:16 --> Total execution time: 1.2476
+INFO - 2019-04-03 17:40:16 --> Session: Class initialized using 'files' driver.
+INFO - 2019-04-03 17:40:16 --> Controller Class Initialized
+DEBUG - 2019-04-03 17:40:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2019-04-03 17:40:16 --> Form Validation Class Initialized
+INFO - 2019-04-03 17:40:16 --> user_id=[lutfi]module=[x100c]method[query]
+INFO - 2019-04-03 17:40:17 --> Final output sent to browser
+DEBUG - 2019-04-03 17:40:17 --> Total execution time: 1.4263

@@ -1,0 +1,91 @@
+$(document).ready(function() {
+	$("#grdStatus").jqGrid({
+		url: base_url + 'empstatus/query',
+		mtype: "GET",
+		datatype: "json",
+		colModel: [
+			{ label: '-', name: 'CMD', width: 50, align: 'center' },
+			{ label: 'Status', name: 'NAME', width: 150, align: 'center' },
+			{ label: 'UMR', name: 'MIN_WAGE', width: 100, align: 'right', formatter: 'number' },
+			{ label: 'Hari Kerja Sebulan', name: 'WORKDAY', width: 70, align: 'right', formatter: 'integer' },
+			{ label: 'JHT (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'JP (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'SPSI (%)', name: 'UNION_FEE', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Upah Max. Jamsostek', name: 'INSURED_WAGE', width: 100, align: 'right', formatter: 'number' },
+			{ label: 'Beras Pegawai (kg)', name: 'RICE_KG_SELF', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Beras Istri (kg)', name: 'RICE_KG_SPOUSE', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Beras Anak (kg)', name: 'RICE_KG_CHILD', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Harga Beras/kg', name: 'RICE_KG_PRICE', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'JHT Prsh (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'JKM Prsh (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'JKK Prsh (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'JP Prsh (%)', name: 'JHT_KRY', width: 70, align: 'right', formatter: 'number' }
+		],
+		page: 1,
+		width: 900,
+		height: 250,
+		rowNum: 20,
+		scroll: 1,
+		shrinkToFit : false,
+		emptyrecords: 'Scroll to bottom to retrieve new page'
+        //pager: "#grdPage"
+	});
+});
+
+function showStatusForm() {
+	$('#mdlStatus').modal({
+		closable: false,
+		onApprove: function() {
+			saveStatus(); return false;
+		}
+	}).modal('show'); // show bootstrap modal when complete loaded
+}
+
+function editStatus(id) {
+	$('#frmStatus').trigger("reset"); // reset form on modals	
+	$('#ttlStatus').text('Ubah Tunjangan');
+		
+	//Ajax Load data from ajax
+	$.ajax({
+		url : base_url + "empstatus/get/" + id,
+		type: "GET",
+		dataType: "JSON",
+		success: function(data) {
+			if (data.status) {
+				bindForm('frmStatus', data.empstatus);
+				showStatusForm();
+			} else {
+				toast("Data tidak ditemukan", "error");
+			}
+		},
+		error: function (jqXHR, textStatus, errorThrown) {
+			toast("Gagal berkomunikasi dengan server", "error");
+		}
+	});
+}
+ 
+function saveStatus() {
+    $('#cmdSaveStatus').attr('disabled',true); //set button disable 
+	
+    // ajax adding data to database
+    $.ajax({
+        url : base_url + 'empstatus/update',
+        type: "POST",
+        data: $('#frmStatus').serialize(),
+		dataType: "JSON",
+        success: function(data) { 
+			$('#cmdSaveStatus').attr('disabled',false); //set button enable 
+            if(data.status) {
+				toast("Data berhasil disimpan","success");
+				$('#grdStatus').trigger('reloadGrid');
+				$('#mdlStatus').modal('hide');
+            } else {
+				toast(data.error,'error');
+			}
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            toast('Maaf, data tidak dapat disimpan','error');
+			$('#cmdSaveStatus').attr('disabled',false); //set button enable
+        }
+	});
+}

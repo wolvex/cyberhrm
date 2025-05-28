@@ -1,0 +1,81 @@
+<script src="<?php echo base_url('assets/js/empstatus.js')?>"></script>
+<div class="ui small modal" id="mdlStatus">
+	<div id="ttlStatus" class="header">
+		Tunjangan Pegawai
+	</div>
+	<div class="content small text">
+		<form id="frmStatus" class="ui mini form">
+			<div class="field">
+				<label>Status Pegawai</label>
+				<input name="NAME" readonly style="font-weight: bold">
+			</div>
+			<div class="four fields">				
+				<div class="field">
+					<label>Upah Minimum (UMR)</label>
+					<input name="MIN_WAGE" placeholder="Upah Minimum" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Upah Max. Jamsostek</label>
+					<input name="INSURED_WAGE" placeholder="Upah Jamsostek" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Hari Kerja Sebulan</label>
+					<input name="WORKDAY" placeholder="Hari Kerja dalam Sebulan" data-tag="int">
+				</div>
+				<div class="field">
+					<label>SPIS (%)</label>
+					<input name="JHT_KRY" data-tag="num">
+				</div>
+			</div>
+			<div class="six fields">
+				<div class="field">
+					<label>JHT Pegawai (%)</label>
+					<input name="JHT_KRY" data-tag="num">
+				</div>
+				<div class="field">
+					<label>JP Pegawai (%)</label>
+					<input name="JP_KRY" data-tag="num">
+				</div>
+				<div class="field">
+					<label>JHT Perusahaan (%)</label>
+					<input name="JHT_PRSH" data-tag="num">
+				</div>
+				<div class="field">
+					<label>JKM Perusahaan (%)</label>
+					<input name="JKM_PRSH" data-tag="num">
+				</div>
+				<div class="field">
+					<label>JKK Perusahaan (%)</label>
+					<input name="JKK_PRSH" data-tag="num">
+				</div>
+				<div class="field">
+					<label>JP Perusahaan (%)</label>
+					<input name="JP_PRSH" data-tag="num">
+				</div>
+			</div>
+			<div class="four fields">
+			<div class="field">
+					<label>Beras Pegawai (kg)</label>
+					<input name="RICE_KG_SELF" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Beras Istri (kg)</label>
+					<input name="RICE_KG_SPOUSE" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Beras Anak (kg)</label>
+					<input name="RICE_KG_CHILD" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Harga Beras/kg</label>
+					<input name="RICE_KG_PRICE" data-tag="num">
+				</div>			
+			</div>
+			<input name="ID" type="hidden">
+		</form>
+	</div>
+	<div class="actions">
+		<div id="cmdCancel" class="ui mini cancel labeled icon button">Batal<i class="undo outline icon"></i></div>
+		<div id="cmdSaveStatus" class="ui mini positive labeled icon button">Simpan<i class="checkmark icon"></i></div>
+	</div>
+</div>

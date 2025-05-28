@@ -1,0 +1,54 @@
+function setAccess(module) {
+	$.ajax({
+		url : "permission/get/"+module,
+		type: "POST",
+		dataType: "JSON",
+		success: function(data)	{ 
+			if (data.status) {
+                applyAccess(data.action);
+            }
+		},
+		error: function (jqXHR, textStatus, errorThrown) {
+			
+		}
+	});
+}
+
+function applyAccess(action) {
+    if (action.indexOf('c')) {
+        allowCreate();
+    }
+    
+    if (action.indexOf('u')) {
+        allowUpdate();
+    } 
+    
+    if (action.indexOf('d')) {
+        allowDelete();
+    } 
+
+    if (action.indexOf('p')) {
+        allowPost();
+    }
+
+}
+
+function allowCreate() {
+    var i;
+    var cmd = document.getElementsByName("cmdAdd");    
+    for (i = 0; i < cmd.length; i++) {
+        cmd.className = "ui tiny button";
+    } 
+}
+
+function allowUpdate() {
+
+}
+
+function allowDelete() {
+
+}
+
+function allowPost() {
+    
+}

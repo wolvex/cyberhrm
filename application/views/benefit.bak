@@ -1,0 +1,40 @@
+<script src="<?php echo base_url('assets/js/benefit.js')?>"></script>
+<div class="ui left aligned segment">	
+    <!--div class="ui small text left aligned column"-->		
+		<h3 class="ui header">
+			<img src="<?php echo base_url('assets/images/allowance.png')?>">
+			<div class="content">
+				Tunjangan Pegawai
+			<div class="sub header">Tunjangan-tunjangan pegawai</div>
+		  </div>
+		</h3>
+
+		<div class="ui top attached tabular menu">
+			<a class="active item" data-tab="employment">Status Pegawai</a>
+			<a class="item" data-tab="shift">Kehadiran</a>
+			<a class="item" data-tab="grade">Jabatan</a>
+			<a class="item" data-tab="overtime">Lembur</a>
+		</div>
+
+		<div class="ui bottom attached active tab segment" data-tab="employment">
+			<table id="grdStatus"></table>
+		</div>
+
+		<div class="ui bottom attached tab segment" data-tab="shift">
+			<table id="grdShift"></table>
+		</div>
+
+		<div class="ui bottom attached tab segment" data-tab="grade">
+			<table id="grdGrade"></table>
+		</div>
+
+		<div class="ui bottom attached tab segment" data-tab="overtime">
+			<table id="grdOvertime"></table>
+		</div>
+
+    <!--/div-->
+</div>
+
+<?php require(ROOT_PATH.'/views/empstatus.php'); ?> 
+<?php require(ROOT_PATH.'/views/benefit_shift.php'); ?>
+<?php require(ROOT_PATH.'/views/benefit_grade.php'); ?>

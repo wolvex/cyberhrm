@@ -1,0 +1,82 @@
+$(document).ready(function() {
+	$("#grdShift").jqGrid({
+		url: base_url + 'shift/benefit',
+		mtype: "GET",
+		datatype: "json",
+		colModel: [
+			{ label: '-', name: 'CMD', width: 50, align: 'center' },
+			{ label: 'Shift', name: 'NAME', width: 150, align: 'center' },
+			{ label: 'Jam Masuk', name: 'START_TIME', width: 70, align: 'center' },
+			{ label: 'Jam Pulang', name: 'END_TIME', width: 70, align: 'center' },
+			{ label: 'Premi Hadir (Rp)', name: 'PREMI_ABSENT', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Premi Shift (Rp)', name: 'PREMI_SHIFT', width: 70, align: 'right', formatter: 'number' },
+			{ label: 'Uang Makan (Rp)', name: 'MEAL', width: 70, align: 'right', formatter: 'number' }
+		],
+		page: 1,
+		//width: 900,
+		height: 250,
+		rowNum: 20,
+		scroll: 1,
+		shrinkToFit : false,
+		emptyrecords: 'Scroll to bottom to retrieve new page'
+        //pager: "#grdPage"
+	});
+});
+
+function showShiftForm() {
+	$('#mdlShift').modal({
+		closable: false,
+		onApprove: function() {
+			saveShift(); return false;
+		}
+	}).modal('show'); // show bootstrap modal when complete loaded
+}
+
+function editShift(id) {
+	$('#frmShift').trigger("reset"); // reset form on modals	
+	$('#ttlShift').text('Ubah Tunjangan Shift');
+		
+	//Ajax Load data from ajax
+	$.ajax({
+		url : base_url + "shift/benefit/" + id,
+		type: "GET",
+		dataType: "JSON",
+		success: function(data) {
+			if (data.status) {
+				bindForm('frmShift', data.shift);
+				showShiftForm();
+			} else {
+				toast("Data tidak ditemukan", "error");
+			}
+		},
+		error: function (jqXHR, textShift, errorThrown) {
+			toast("Gagal berkomunikasi dengan server", "error");
+		}
+	});
+}
+ 
+function saveShift() {
+    $('#cmdSaveShift').attr('disabled',true); //set button disable 
+	
+    // ajax adding data to database
+    $.ajax({
+        url : base_url + 'shift/update',
+        type: "POST",
+        data: $('#frmShift').serialize(),
+		dataType: "JSON",
+        success: function(data) { 
+			$('#cmdSaveShift').attr('disabled',false); //set button enable 
+            if(data.status) {
+				toast("Data berhasil disimpan","success");
+				$('#grdShift').trigger('reloadGrid');
+				$('#mdlShift').modal('hide');
+            } else {
+				toast(data.error,'error');
+			}
+        },
+        error: function (jqXHR, textShift, errorThrown) {
+            toast('Maaf, data tidak dapat disimpan','error');
+			$('#cmdSaveShift').attr('disabled',false); //set button enable
+        }
+	});
+}

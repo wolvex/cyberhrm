@@ -1,0 +1,45 @@
+<script src="<?php echo base_url('assets/js/benefit_shift.js')?>"></script>
+<div class="ui small modal" id="mdlShift">
+	<div id="ttlShift" class="header">
+		Tunjangan Kehadiran & Shift
+	</div>
+	<div class="content small text">
+		<form id="frmShift" class="ui mini form">
+			<div class="three fields">
+				<div class="field">
+					<label>Shift</label>
+					<input name="NAME" readonly style="font-weight:bold;text-align:center">
+				</div>
+				<div class="field">
+					<label>Jam Masuk</label>
+					<input name="START_TIME" readonly style="font-weight:bold;text-align:center">
+				</div>
+				<div class="field">
+					<label>Jam Pulang</label>
+					<input name="END_TIME" readonly style="font-weight:bold;text-align:center">
+				</div>
+			</div>
+			<div class="three fields">
+				<div class="field">
+					<label>Premi Hadir (Rp)</label>
+					<input name="PREMI_ABSENT" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Premi Shift (Rp)</label>
+					<input name="PREMI_SHIFT" data-tag="num">
+				</div>
+				<div class="field">
+					<label>Uang Makan (Rp)</label>
+					<input name="MEAL" data-tag="num">
+				</div>
+			</div>
+			<input name="CODE" type="hidden">
+			<input name="DESCRIPTION" type="hidden">
+			<input name="ID" type="hidden">
+		</form>
+	</div>
+	<div class="actions">
+		<div id="cmdCancel" class="ui mini cancel labeled icon button">Batal<i class="undo outline icon"></i></div>
+		<div id="cmdSaveShift" class="ui mini positive labeled icon button">Simpan<i class="checkmark icon"></i></div>
+	</div>
+</div>
