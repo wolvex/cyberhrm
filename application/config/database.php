@@ -73,12 +73,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
-$tnsname = '(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.3)(PORT = 1521))
+/**
+$tnsname = '(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = dev01)(PORT = 1539))
             (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = XE)))';
+ */
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => $tnsname,
+	'hostname' => $_SERVER['TNSNAME'],
 	'username' => 'cyberhrm',
 	'password' => 'cyberhrm',
 	'database' => 'xe',
